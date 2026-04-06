@@ -41,3 +41,8 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## See Also
+- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) — who is involved and what they own
+- [Role Alignment Checklist](octoacme-role-alignment-checklist.md) — confirm roles, ownership, and communication cadence at kickoff
+- [Role Collaboration RACI](octoacme-roles-raci.md) — activity ownership during initiation and beyond

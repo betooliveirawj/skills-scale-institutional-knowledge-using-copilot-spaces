@@ -36,3 +36,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## See Also
+- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) — DevOps/SRE, QA Lead, and Technical Writer responsibilities for release
+- [Role Collaboration RACI](octoacme-roles-raci.md) — release readiness, QA sign-off, deployment, and rollback ownership
+- [Role Alignment Checklist](octoacme-role-alignment-checklist.md) — confirm release sign-off process is agreed before go-live

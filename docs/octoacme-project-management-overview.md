@@ -41,6 +41,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
 
+## Roles & Ownership
+For detailed role descriptions, interaction notes, and an activity-level ownership matrix see:
+- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) — full definitions for all roles including UX Designer, DevOps/SRE, Technical Writer, Business Analyst, QA Lead, and Stakeholders/Sponsor.
+- [Role Collaboration RACI](octoacme-roles-raci.md) — maps key activities (initiation, planning, execution, release, retrospective) to **R/A/C/I** ownership across all roles.
+- [Role Alignment Checklist](octoacme-role-alignment-checklist.md) — use during project kickoff to confirm role staffing, communication cadence, and decision-making clarity.
+
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
