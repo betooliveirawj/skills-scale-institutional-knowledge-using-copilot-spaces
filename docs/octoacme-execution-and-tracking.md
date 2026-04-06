@@ -38,3 +38,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## See Also
+- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) — QA Lead, DevOps/SRE, and Developer responsibilities during execution
+- [Role Collaboration RACI](octoacme-roles-raci.md) — Accountable owners for testing, code review, and risk management
+- [Role Alignment Checklist](octoacme-role-alignment-checklist.md) — verify tooling access and communication cadence is set

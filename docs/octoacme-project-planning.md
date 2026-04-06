@@ -41,3 +41,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## See Also
+- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) — role responsibilities for planning activities
+- [Role Collaboration RACI](octoacme-roles-raci.md) — who is Accountable for backlog, sprint planning, and release planning
+- [Role Alignment Checklist](octoacme-role-alignment-checklist.md) — confirm role staffing and ownership before planning begins
